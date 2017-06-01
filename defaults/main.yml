@@ -1,3 +1,4 @@
 deploy_rake_tasks:
   - about
 deploy_rake_tasks_command: rake
+deploy_rake_tasks_run_once: no
